@@ -1,10 +1,10 @@
 <?php return [
     'method' => 'AES-256-CBC',
-    'key' => 'pukoframework',
+    'key' => 'satframework',
     'identifier' => 'p43mgf59nFR108dFD',
-    'cookies' => 'puko',
-    'session' => 'puko',
+    'cookies' => 'sat',
+    'session' => 'sat',
     'expired' => 30,
     'expiredText' => "Login to continue",
-    'errorText' => "You don't have akses",
+    'errorText' => "You don't have access",
 ];

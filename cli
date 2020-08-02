@@ -1,7 +1,16 @@
 <?php
+/**
+ * satframework.
+ * MVC PHP Framework for quick and fast PHP Application Development.
+ * Copyright (c) 2020, IT Maranatha
+ *
+ * @author Didit Velliz
+ * @link https://github.com/maranathachristianuniversity/sat-framework
+ * @since Version 0.9.3
+ */
 
-use pukoframework\Framework;
-use pukoframework\config\Factory;
+use satframework\Framework;
+use satframework\config\Factory;
 
 require 'vendor/autoload.php';
 
