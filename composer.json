@@ -2,14 +2,14 @@
   "name": "maranathachristianuniversity/sat-skeleton",
   "description": "PSR 4 MVC Framework for quick PHP application development",
   "license": "MIT",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "require": {
     "php": ">=7.0",
-    "maranathachristianuniversity/sat-framework": "1.0.0"
+    "maranathachristianuniversity/sat-framework": "1.0.1"
   },
   "require-dev": {
-    "maranathachristianuniversity/sat-console": "1.0.0",
-    "phpunit/phpunit": "6.5.13"
+    "maranathachristianuniversity/sat-console": "1.0.1",
+    "phpunit/phpunit": "6.5.14"
   },
   "minimum-stability": "dev",
   "autoload": {

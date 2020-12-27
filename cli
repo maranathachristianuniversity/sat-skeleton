@@ -1,11 +1,11 @@
 <?php
 /**
- * satframework.
+ * sat-skeleton.
  * MVC PHP Framework for quick and fast PHP Application Development.
  * Copyright (c) 2020, IT Maranatha
  *
  * @author Didit Velliz
- * @link https://github.com/maranathachristianuniversity/sat-framework
+ * @link https://github.com/maranathachristianuniversity/sat-skeleton
  * @since Version 0.9.3
  */
 
