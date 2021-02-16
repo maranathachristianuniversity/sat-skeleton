@@ -5,7 +5,8 @@ $db['primary'] = [
     'user' => 'root',
     'pass' => '',
     'dbName' => '',
-    'port' => '3306'
+    'port' => '3306',
+    'driver' => ''
 ];
 $db['logs'] = [
     'dbType' => 'mysql',
@@ -13,7 +14,8 @@ $db['logs'] = [
     'user' => 'root',
     'pass' => '',
     'dbName' => '',
-    'port' => '3306'
+    'port' => '3306',
+    'driver' => ''
 ];
 $db['backup'] = [
     'dbType' => 'mysql',
@@ -21,6 +23,7 @@ $db['backup'] = [
     'user' => 'root',
     'pass' => '',
     'dbName' => '',
-    'port' => '3306'
+    'port' => '3306',
+    'driver' => ''
 ];
 return $db;
